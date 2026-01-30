@@ -4,15 +4,15 @@
 
 1. Visual Studio Code (IDE)
 2. Python (Programming Lanuage)
-3. Jira (Agile Project Manager)
+3. Pytest (Python Library for Unit Tests)
 
-## Project Life Cycle Goals:
+## Long Term Project Goals:
 
-1. Building a simulation to test operations of this type.
-2. Develop autonomous collaborative agents and strategies for these operations.
+1. Build a simulation to test the specified operations.
+2. Develop autonomous, collaborative agents and strategies for these operations.
 
 ## Immediate Progress Plan:
-- [ ] Have online meeting with our mentor
-- [ ] Final decision on programming language and technologies to be used
-- [ ] Agreement on code practices, version control, CI/CD elements, etc.
+- [ ] Have an online meeting with our mentor
+- [ ] Make a final decision on a programming language and the technologies to be used
+- [ ] Agreement on code practices, version control, CI/CD elements, etc
 - [ ] Baseline algorithms and graphical elements
